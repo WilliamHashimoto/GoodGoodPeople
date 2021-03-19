@@ -1,0 +1,21 @@
+GoodGoodPeopleNetwork -- Site Web
+
+Centré sur Bruxelles, mais avec une section internationale
+
+Profil des artistes:
+- Nacho
+- Mitsu
+- Sho
+- A ajouter au fil du temps
+
+Qu'est-ce-qu'on veut sur les artistes?
+- Bio
+- Voir leurs travail
+- Comment les contacter
+- Gallerie photo (Carousel?)
+
+
+
+- Présentation d'artistes
+- Rapaddict
+- 
