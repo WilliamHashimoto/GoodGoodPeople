@@ -14,7 +14,7 @@ Qu'est-ce-qu'on veut sur les artistes?
 - Comment les contacter
 - Gallerie photo (Carousel?)
 
-
+- Un media player pour streamer du son
 
 - Présentation d'artistes
 - Rapaddict
